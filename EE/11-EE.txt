@@ -1,0 +1,25 @@
+# Estás variables son para el algoritmo 
+# (1+1)-EE del Ejercicio 1
+11eeO = 0.50 # valor inicial
+11eeN = 10 # Num. variables de decision 
+11eeC = 0.60 # valor constante
+11eeG = 100 # Número máximo de generaciones
+11eeK = 80 # Actualizacion de generaciones
+
+# Estás variables son para el algoritmo (mu, lambda)-EE
+mulambdaN = 10
+mulambdaG = 100
+mulambdaEpsilon = 0.01
+mulambdaMu = 100
+mulambdaLambda = 700
+
+# Estás variables son para el algoritmo implementando 
+# basado en EEs
+plusN = 10
+plusMU = 100
+plusLambda = 700
+plusG = 100
+plusEpsilon = 0.01
+plusMu = 100
+plusLambda = 700
+
