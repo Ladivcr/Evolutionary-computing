@@ -74,10 +74,6 @@ MEDIANA: Xs&fx
 Xs&fx: [-0.0016897703135800156, -0.0015113848830057494, -0.001775757451882999, 0.0014822654723971043, 0.002669917249006662, 0.001753149609581519, 0.00021638853540399913, -0.0006085943719727511, 0.0001282185673733577] & 0.018763338761734704
 
 # ALGORITMO (mu, lambda)-EE con modificaciones implementadas
----
-En este caso he usado 100 ejecuciones, dado que el tiempo mejoro un poco. 
-Con 5000 se detuvo a los 16 minutos más o menos a diferencia del anterior. 
-No es mucha mejora evidentemente. 
 
 ## n = 2
 
