@@ -1,2 +1,2 @@
 # Evolutionary-computing
-A repository for evolutionary computing class. UNAM
+A repository for evolutionary computing class.
